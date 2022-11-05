@@ -1,0 +1,2 @@
+# ESP32-82-LM35-WITH-LCD-I2C
+ESP32/82 with LM35 sensor and LCD DISPLAY 16X2 with I2C module
